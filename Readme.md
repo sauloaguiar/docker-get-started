@@ -14,7 +14,8 @@
 
 ### Questions
 * Can a container by itself be a swarm?
-* Why boot2docker created a vm when I requested?
+* Why was boot2docker used to create a vm when I requested?
+  * From the [documentation](https://docs.docker.com/machine/get-started/#prerequisite-information), it seems that there's no driver yet for HyperKit.
 
 
 ### Some useful commands
